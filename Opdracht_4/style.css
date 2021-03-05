@@ -1,0 +1,18 @@
+body {
+  background-color: #3aafa9;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Title {
+  color: #feffff;
+  font-size: 25px;
+}
+
+.ondertitel {
+  color: #17252a;
+  font-size: 20px;
+}
+
+.border {
+  border: 2px solid black;
+}
